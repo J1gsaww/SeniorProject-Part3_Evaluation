@@ -27,3 +27,22 @@ Mr. Naphat			Sookjitsumrarn		6388059
 - Training | You can explore our repository  [here](https://github.com/J1gsaww/SeniorProject_Part2_Train_ThaiHandWritten-Recognition-with-ResNet-50.git). <br>
 - Evaluating | You can visit our repository  [here](https://github.com/J1gsaww/SeniorProject_SeniorProject-Part3-Evaluation.git). <br>
 - Displaying | You can look out our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject_Part4_GUI-Demo.git). <br>
+
+## Evaluating
+**Required library:** sklearn (SciKit-learn) and Seaborn<br>
+<br> **Command: Install sklearn** <br>`pip install -U scikit-learn (Windows)`
+<br>`pip install -U numpy scipy scikit-learn (MacOSX)`
+
+**Command: Install Seaborn** <br>`pip install seaborn (Windows)`
+<br>`pip3 install seaborn (MacOSX)`
+
+This python script to demonstrate the efficiency and accuracy of model that predicts Thai Handwritten Characters in the form of `Confusion Matrix` that can analyze when matrix is the form of `Diagonal Matrix`.
+<br>`Diagonal Matrix` shows that the model get a high accuracy for predictions process.
+
+<br>To specified dataset folder: **Don't forget to change path to your path**
+
+## Result
+<br>Confusion Matrix 57x57
+<img src="System Structure Chart.png" alt="SystemArc"> <br>
+
+
