@@ -23,9 +23,9 @@ Mr. Naphat			Sookjitsumrarn		6388059
 <img src="System Structure Chart.png" alt="SystemArc"> <br>
 
 **Our project consist of 4 parts including:** <br>
-- Preprocessing | Current repository <br>
-- Training | You can explore our repository  [here](https://github.com/J1gsaww/SeniorProject_Part2_Train_ThaiHandWritten-Recognition-with-ResNet-50.git). <br>
-- Evaluating | You can visit our repository  [here](https://github.com/J1gsaww/SeniorProject_SeniorProject-Part3-Evaluation.git). <br>
+- Preprocessing |  You can look out our repository  [here](https://github.com/J1gsaww/SeniorProject_Part1_Data-Preprocessing.git). <br>
+- Training | You can look out our repository  [here](https://github.com/J1gsaww/SeniorProject_Part2_Train_ThaiHandWritten-Recognition-with-ResNet-50.git). <br>
+- Evaluating | Current repository <br>
 - Displaying | You can look out our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject_Part4_GUI-Demo.git). <br>
 
 ## Evaluating
@@ -43,6 +43,6 @@ This python script to demonstrate the efficiency and accuracy of model that pred
 
 ## Result
 <br>Confusion Matrix 57x57
-<img src="System Structure Chart.png" alt="SystemArc"> <br>
+<img src="Matrix57x57.png" alt="SystemArc"> <br>
 
 
