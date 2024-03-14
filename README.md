@@ -43,6 +43,8 @@ This python script to demonstrate the efficiency and accuracy of model that pred
 
 ## Result
 <br>Confusion Matrix 57x57
-<img src="Matrix57x57.png" alt="SystemArc"> <br>
+<img src="Matrix57x57.jpg" alt="Matrix57"> <br>
+<br>Confusion Matrix 2x2
+<img src="Matrix2x2.jpg" alt="Matrix2"> <br>
 
 
